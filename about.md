@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is some text.
+Andrew So is an investor and writer. He previously led teams at startups focused on education, media, entertainment, and fashion. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
+He studied mechanical engineering and business at North Carolina State University but dropped out one semester before receiving his degrees. He has found success without them. 
