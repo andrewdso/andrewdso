@@ -18,12 +18,12 @@ avatar: https://pbs.twimg.com/profile_images/777042846188654592/m4mqmKQ0_400x400
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: Andrew.Dixon.So@gmail.com
+  email:
   facebook:
   flickr:
   github: 
   instagram:
-  linkedin: http://linkedin.com/in/andrewdso/
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: AndrewDixonSo
@@ -84,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  
-  future: true
