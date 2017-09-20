@@ -12,5 +12,3 @@ As much as he pioneered the social media and tech space, he also had a proufound
 Over the past decade several college dropouts that have built unicorns- companies valued at over one billion dollars. I believe that in the next ten years we'll see high school dropouts doing the same. 
 
 The problem is that college is useful as a buffer period for children to make mistakes without major repercussions to their career (at least that's what it used to be). They can explore subjects they're interested in, they can meet new people from different backgrounds, they can act stupid, like children. Especially among super bright students, they didn't have much time in high school because they were always studying. So when they enter college they have freedom from their parents and they can party and do all sorts of dumb shit. 
-
-Testing this commit.
