@@ -10,6 +10,4 @@ So what's the point of a bank. Fundamentally, it's someplace you store money and
 
 Well then we'll go back to the predecessor of the bank.
 
-Enter text in Markdown. Use the toolbar above, or click the ? button for formatting help.
-
 Tokens raised by individuals to bet on their future still based on quantitative measure + trust future of education? crowdfunding individuals
