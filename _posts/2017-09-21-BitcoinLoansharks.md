@@ -1,7 +1,7 @@
 ---
+layout: post
+title: Young Tech Assholes
 published: true
-title: Bitcoin Loansharks
-
 ---
 
 Bitcion is going to revolutionize banking. I by that I mean it's going to do everything the same but from square one.
