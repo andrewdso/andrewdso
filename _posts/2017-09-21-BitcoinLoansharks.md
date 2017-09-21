@@ -1,6 +1,6 @@
 ---
 published: true
-Title: Bitcoin Loansharks
+title: Bitcoin Loansharks
 
 ---
 
