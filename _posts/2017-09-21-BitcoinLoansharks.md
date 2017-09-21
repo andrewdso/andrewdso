@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+published: true
 Title: Bitcoin Loansharks
 
 ---
