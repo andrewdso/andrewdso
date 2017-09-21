@@ -246,7 +246,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $white;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -257,7 +257,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $white;
+    border-left: 2px solid $lightGray;
     padding: 0.1em 1em;
     color: $white;
     font-size: 22px;
@@ -278,7 +278,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #lightGray;
   border-bottom: 1px solid #lightGray;
-  background-color: $white;
+  background-color: $lightGray;
 }
 
 footer {
