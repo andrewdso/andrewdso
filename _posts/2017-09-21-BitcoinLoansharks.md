@@ -23,3 +23,5 @@ But the physical constraints change that. The current system analyzes a person's
 So I'm talking about credit score. So how it works now is three national credit bureaus: Experian, Equifax, and TransUnion have every since piece of info about you in a big-ass database and crunch the numbers to give you a credit score. 
 
 So since the whole point of P2P is to cut out "trusted" 3rd parties (lol Equifax trusted), how do you analyze the trustworthiness of a person and thus how likelihood to pay you back? 
+
+The system of bitcoin is 'trustless' in that you don't need a 3rd party to verify the validity of a digital transaction. But you do need the trust to determine who someone is, and if they should be getting your money.
