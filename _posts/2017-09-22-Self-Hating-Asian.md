@@ -1,6 +1,7 @@
 ---
-published: false
+layout: post
 title: Self-Hating Asian
+published: false
 ---
 
 Stranger: "Do you know what you are? You're a self-loathing Jew."
