@@ -1,4 +1,6 @@
 ---
+layout: post
+title: What You Know and Who You Know
 published: false
 ---
 ## What You Know and Who You Know
