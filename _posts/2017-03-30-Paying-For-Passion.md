@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rōnin- Paying for passion
+title: Rōnin- Paying for Passion
 published: true
 ---
 
