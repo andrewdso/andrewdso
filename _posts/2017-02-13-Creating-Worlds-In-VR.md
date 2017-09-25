@@ -4,9 +4,9 @@ title: Creating Worlds in VR
 published: true
 ---
 
-Creating worlds in VR is education's next frontier
-People that work with Virtual Reality say that it will revolutionize education. I could never understand why so I asked an acquaintance in the field to sum it up:
-"The internet gave us access to all information. VR gives us access to all experiences."
+People that work with virtual reality say that it will revolutionize education. I could never understand why so I asked an acquaintance in the field to sum it up:
+
+> "The internet gave us access to all information. VR gives us access to all experiences."
 
 The subject of VR came up again when I was talking with Oscar Menjivar, who runs a program in LA teaching technical skills to inner-city kids. He's not convinced by what the industry has put out so far. He said nothing in VR feels new. It all feels like old content being adapted to a new medium.
 
@@ -18,9 +18,8 @@ I'm currently reading "How Children Learn" by John Holt, an educator that spent 
 
 Within a few years, they've made sense of how the world works and they start creating things from scratch. Children's imaginations are incredibly vivid. They make up friends, they make up games to play, and they make up whole stories. They don't plan it out either- they improvise. They think of something on the spot and think "ooh, that'll do", add it to their fantasy, then continue to the next thought.
 
-"My question is, what happens when you start messing with the physics of it all?" 
+> "My question is, what happens when you start messing with the physics of it all?" 
 
 Ariadne asks this in the film Inception when she finds out she can create anything in her dream, inspiring her to bend the entire city in on itself. Cobb, Leonardo Dicaprio's character, created an entire city but it took Ariadne's youthful imagination to construct beyond the natural laws that exist in base reality. 
 
 VR experiences still have to be designed by adults. This means that they're still limited by adults' imagination. Hopefully, we'll soon have an experience like Minecraft for VR where, instead of being given a world to explore, you're given a toolbox of unlimited tools to create a world of your own.
-
