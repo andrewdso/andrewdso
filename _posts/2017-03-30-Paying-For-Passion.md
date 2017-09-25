@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Rōnin- Paying for passion
 published: false
 ---
 
