@@ -1,11 +1,9 @@
 ---
-published: false
+layout: post
+title: Creating Worlds in VR is Education's Next Frontier
+published: true
 ---
 
-Published posts
-
-⚡️ANDREW SO⚡️ @ANDREWDIXONSO
-02-13-17
 Creating worlds in VR is education's next frontier
 People that work with Virtual Reality say that it will revolutionize education. I could never understand why so I asked an acquaintance in the field to sum it up:
 "The internet gave us access to all information. VR gives us access to all experiences."
@@ -19,6 +17,7 @@ VR is still young. Up until now, a lot of the content feels like video games tha
 I'm currently reading "How Children Learn" by John Holt, an educator that spent an extraordinary amount of time observing children's quirks. He noticed that infants have an innate tendency to explore because everything in the world is new to them. They're capable of taking in vast amounts of information and making sense of it. They grasp, poke, pull, throw, taste, and basically experiment with the world around them. 
 
 Within a few years, they've made sense of how the world works and they start creating things from scratch. Children's imaginations are incredibly vivid. They make up friends, they make up games to play, and they make up whole stories. They don't plan it out either- they improvise. They think of something on the spot and think "ooh, that'll do", add it to their fantasy, then continue to the next thought.
+
 "My question is, what happens when you start messing with the physics of it all?" 
 
 Ariadne asks this in the film Inception when she finds out she can create anything in her dream, inspiring her to bend the entire city in on itself. Cobb, Leonardo Dicaprio's character, created an entire city but it took Ariadne's youthful imagination to construct beyond the natural laws that exist in base reality. 
