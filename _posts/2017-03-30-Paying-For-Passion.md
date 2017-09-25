@@ -26,4 +26,5 @@ If you're hiring for passion, you'll end up with the best liars. The trick isn't
 
 Skilled people are special because they give a shit. They had the patience to spend years practicing their craft. They experimented with new techniques, persevered through failure, and gained wisdom from experts. They're people that are naturally driven by passion, by a sense of purpose. Treat them well and they'll live and die for you. 
 
+
 *This post was originally published on my old blog at Bold.io*
