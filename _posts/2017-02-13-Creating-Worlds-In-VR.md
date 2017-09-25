@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating Worlds in VR is Education's Next Frontier
+title: Creating Worlds in VR
 published: true
 ---
 
