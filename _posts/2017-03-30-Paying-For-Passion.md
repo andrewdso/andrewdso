@@ -20,7 +20,7 @@ But after a samurai goes through a loyalty ceremony, he will care deeply for the
 
 One of the strangest things about American work culture is "hiring for passion". Nobody in their right mind is passionate about marketing channel analytics software. Or reading legal briefs. Or any type of customer service.
 
-Of course, whoever founded the company will be passionate about it. And maybe the first dozen hires are passionate. How else could you recruit someone to build a company about something so boring?
+Of course, whoever founded the company will be passionate about it. And maybe the first dozen hires are passionate. How else could you recruit someone to build a company about something boring?
 
 If you're hiring for passion, you'll end up with the best liars. The trick isn't to look for candidates passionate about your company. If you hire skilled people, and give them a direction for their skill, only then do they begin to care about your company.
 
