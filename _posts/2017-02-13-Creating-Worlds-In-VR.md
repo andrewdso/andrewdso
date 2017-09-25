@@ -23,3 +23,6 @@ Within a few years, they've made sense of how the world works and they start cre
 Ariadne asks this in the film Inception when she finds out she can create anything in her dream, inspiring her to bend the entire city in on itself. Cobb, Leonardo Dicaprio's character, created an entire city but it took Ariadne's youthful imagination to construct beyond the natural laws that exist in base reality. 
 
 VR experiences still have to be designed by adults. This means that they're still limited by adults' imagination. Hopefully, we'll soon have an experience like Minecraft for VR where, instead of being given a world to explore, you're given a toolbox of unlimited tools to create a world of your own.
+
+
+_Originally published on my old blog at Bold.io_
