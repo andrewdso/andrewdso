@@ -25,4 +25,5 @@ Ariadne asks this in the film Inception when she finds out she can create anythi
 VR experiences still have to be designed by adults. This means that they're still limited by adults' imagination. Hopefully, we'll soon have an experience like Minecraft for VR where, instead of being given a world to explore, you're given a toolbox of unlimited tools to create a world of your own.
 
 
+
 _Originally published on my old blog at Bold.io_
