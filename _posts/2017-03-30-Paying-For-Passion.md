@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rōnin- Paying for passion
-published: false
+published: true
 ---
 
 Everything about samurai sounds badass. Fancy swords. Fancy armor. Code of honor.
