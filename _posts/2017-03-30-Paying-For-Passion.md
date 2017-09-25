@@ -11,13 +11,13 @@ During Japan's feudal period, land-owning lords called daimyo hired them as merc
 They trained their whole lives to become expert swordsmen. Practicing hand-to-hand combat. Learning military tactics. But without someone to serve, it's easy to feel like you have no purpose. What good is a sword that remains in its sheath?
 
 In modern times, the Japanese call unemployed people Ronin. And like in ancient times, it's a shameful term. Despite this, I love how it implies someone is still skilled. They're just seeking a purpose for their skill. 
-The Contract
+
 The relationship between samurai and daimyo is the same as any between employer and employee- "Give me money and I'll do shit for you."
 
 Without a contract between them, they're just strangers. Their problems are their own. Their lives are their own. 
 
 But after a samurai goes through a loyalty ceremony, he will care deeply for the master's estate. Kill on his behalf. Even die for his master. 
-The Lies
+
 One of the strangest things about American work culture is "hiring for passion". Nobody in their right mind is passionate about marketing channel analytics software. Or reading legal briefs. Or any type of customer service.
 
 Of course, whoever founded the company will be passionate about it. And maybe the first dozen hires are passionate. How else could you recruit someone to build a company about something so boring?
